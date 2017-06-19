@@ -1,4 +1,4 @@
 {
 	"id": "liferay",
-	"type": "wedeploy/liferay"
+	"type": "wedeploy/liferay:beta"
 }
