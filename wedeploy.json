@@ -1,0 +1,7 @@
+{
+	"id": "liferay",
+	"image": "wedeploy/liferay:beta",
+	"volume": "/usr/local/liferay-ce-portal-7.0-ga4",
+	"memory": 4096,
+	"cpu": 3
+}
