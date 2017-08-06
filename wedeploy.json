@@ -1,7 +1,7 @@
 {
 	"id": "liferay",
 	"image": "wedeploy/liferay:dxp-sp4-20170802",
-	"volume": "/usr/local/liferay-ce-portal-7.0-ga4",
+	"volume": "/opt/liferay",
 	"memory": 4096,
 	"cpu": 3
 }
