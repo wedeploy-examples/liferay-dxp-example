@@ -1,5 +1,5 @@
 {
-	"id": "mysql",
+	"id": "db",
 	"image": "mysql",
 	"volume": "/var/lib/mysql",
 	"env": {
