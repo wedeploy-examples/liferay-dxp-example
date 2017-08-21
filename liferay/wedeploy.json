@@ -3,5 +3,6 @@
 	"image": "wedeploy/liferay:dxp-sp4-20170802",
 	"port": 8080,
 	"memory": 4096,
-	"cpu": 3
+	"cpu": 3,
+	"volume": "/wedeploy-container"
 }
