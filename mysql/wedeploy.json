@@ -1,0 +1,8 @@
+{
+	"id": "mysql",
+	"image": "mysql",
+	"volume": "/var/lib/mysql",
+	"env": {
+		"MYSQL_ROOT_PASSWORD": "passw0rd"
+	}
+}
