@@ -1,0 +1,5 @@
+{
+	"id": "es",
+	"image": "elasticsearch",
+	"volume": "/usr/share/elasticsearch/data"
+}
