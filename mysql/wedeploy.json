@@ -3,6 +3,7 @@
 	"image": "mysql",
 	"volume": "/var/lib/mysql",
 	"env": {
+		"MYSQL_DATABASE": "lportal",
 		"MYSQL_ROOT_PASSWORD": "passw0rd"
 	}
 }
