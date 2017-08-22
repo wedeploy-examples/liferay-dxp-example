@@ -1,6 +1,6 @@
 {
 	"id": "liferay",
-	"image": "wedeploy/liferay:dxp-sp4-20170802",
+	"image": "wedeploy/liferay:dxp-sp4-20170821",
 	"port": 8080,
 	"memory": 4096,
 	"cpu": 3,
