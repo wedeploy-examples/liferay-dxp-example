@@ -3,5 +3,5 @@
 	"image": "wedeploy/liferay:dxp-sp4-20170822",
 	"memory": 4096,
 	"cpu": 3,
-	"volume": "/wedeploy-container"
+	"volume": "/opt/liferay"
 }
