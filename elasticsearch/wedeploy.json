@@ -1,6 +1,6 @@
 {
 	"id": "es",
-	"image": "elasticsearch",
+	"image": "elasticsearch:2-alpine",
 	"memory": 4096,
 	"cpu": 2
 }
