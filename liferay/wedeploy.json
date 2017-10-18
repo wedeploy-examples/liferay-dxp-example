@@ -1,6 +1,6 @@
 {
 	"id": "liferay",
-	"image": "wedeploy/liferay:dxp-sp4-20170919",
+	"image": "wedeploy/liferay:dxp-sp5-20171018",
 	"memory": 4096,
 	"cpu": 3
 }
