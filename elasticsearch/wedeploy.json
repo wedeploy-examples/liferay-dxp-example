@@ -1,6 +1,7 @@
 {
-	"id": "es",
-	"image": "elasticsearch:2-alpine",
-	"memory": 4096,
-	"cpu": 2
+  "id": "es",
+  "cpu": 2,
+  "memory": 2048,
+  "zeroDowntime": false,
+  "volume": "/usr/share/elasticsearch/data"
 }
