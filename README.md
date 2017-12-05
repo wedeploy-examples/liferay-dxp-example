@@ -1,6 +1,6 @@
 # Liferay DXP Trial [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-A demo of [Liferay DXP](https://liferay.com), [MySQL](https://hub.docker.com/_/mysql/), [Apache](https://hub.docker.com/_/httpd/), and [Elasticsearch](https://hub.docker.com/_/elasticsearch/) on [WeDeploy](https://wedeploy.com/).
+A demo of [Liferay DXP](https://liferay.com), [MySQL](https://hub.docker.com/_/mysql/), and [Elasticsearch](https://hub.docker.com/_/elasticsearch/) on [WeDeploy](https://wedeploy.com/).
 
 **Disclaimer:** WeDeploy only supports Liferay DXP for testing and development purposes, not production.
 
