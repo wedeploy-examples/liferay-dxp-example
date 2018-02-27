@@ -5,6 +5,7 @@
   "cpu": 3,
   "dependencies": ["db", "es"],
   "volumes": {
-    "liferay": "/opt/liferay/data"
+    "data": "/opt/liferay/data",
+    "osgi": "/opt/liferay/osgi"
   }
 }
