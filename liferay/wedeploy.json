@@ -1,8 +1,8 @@
 {
-	"id": "liferay",
-	"image": "wedeploy/liferay:dxp-sp6-20180130",
-	"memory": 4096,
-	"cpu": 3,
-	"dependencies": ["db", "es"],
-	"volume": "/opt/liferay/data"
+  "id": "liferay",
+  "image": "wedeploy/liferay:dxp-sp6-20180130",
+  "memory": 4096,
+  "cpu": 3,
+  "dependencies": ["db", "es"],
+  "volume": "/opt/liferay/data"
 }
