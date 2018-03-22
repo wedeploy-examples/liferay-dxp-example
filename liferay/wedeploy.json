@@ -4,5 +4,8 @@
   "memory": 4096,
   "cpu": 3,
   "dependencies": ["db", "es"],
-  "volume": "/opt/liferay/data"
+  "volumes": {
+    "data": "/opt/liferay/data",
+    "osgi": "/opt/liferay/osgi"
+  }
 }
