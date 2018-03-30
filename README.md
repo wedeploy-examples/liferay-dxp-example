@@ -2,9 +2,7 @@
 
 # Liferay DXP Trial
 
-An example of [Liferay DXP](https://liferay.com), [MySQL](https://hub.docker.com/_/mysql/), and [Elasticsearch](https://hub.docker.com/_/elasticsearch/) on [WeDeploy](https://wedeploy.com/).
-
-**Disclaimer:** WeDeploy only supports Liferay DXP for testing and development purposes, not production.
+An example of [Liferay DXP](https://liferay.com) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
