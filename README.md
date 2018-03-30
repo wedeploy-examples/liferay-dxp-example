@@ -4,8 +4,6 @@
 
 An example of [Liferay DXP](https://liferay.com), [MySQL](https://hub.docker.com/_/mysql/), and [Elasticsearch](https://hub.docker.com/_/elasticsearch/) on [WeDeploy](https://wedeploy.com/).
 
-**Disclaimer:** WeDeploy only supports Liferay DXP for testing and development purposes, not production.
-
 ## Instructions
 
 1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
