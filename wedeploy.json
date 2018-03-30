@@ -2,5 +2,9 @@
   "id": "liferay",
   "image": "wedeploy/liferay:dxp-sp6-20180322",
   "memory": 1024,
-  "cpu": 1
+  "cpu": 1,
+  "healthCheck": {
+    "url": "localhost:8080",
+    "timeout": 120
+  }
 }
