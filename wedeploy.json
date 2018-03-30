@@ -5,6 +5,7 @@
   "cpu": 1,
   "healthCheck": {
     "url": "localhost:8080",
-    "timeout": 120
+    "startPeriod": 120,
+    "retries": 30
   }
 }
