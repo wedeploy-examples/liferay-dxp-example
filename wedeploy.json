@@ -1,6 +1,6 @@
 {
   "id": "liferay",
-  "image": "wedeploy/liferay:dxp-sp6-20180530",
+  "image": "wedeploy/liferay:7.0.0-sp7-fp53-1.0",
   "memory": 4096,
   "cpu": 3,
   "healthCheck": {
